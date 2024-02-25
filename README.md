@@ -11,13 +11,13 @@
 
 #### Exercises
 
-- [String Matching](https://cses.fi/problemset/task/1753)
-- [Finding Borders](https://cses.fi/problemset/task/1732)
-- [Finding Periods](https://cses.fi/problemset/task/1733)
-- [Palindrome Queries](https://cses.fi/problemset/task/2420)
-- [Distinct Substrings](https://cses.fi/problemset/task/2105)
-- [Repeating Substring](https://cses.fi/problemset/task/2106)
-- [Tree Isomorphism I](https://cses.fi/problemset/task/1700)
+- [CSES - String Matching](https://cses.fi/problemset/task/1753)
+- [CSES - Finding Borders](https://cses.fi/problemset/task/1732)
+- [CSES - Finding Periods](https://cses.fi/problemset/task/1733)
+- [CSES - Palindrome Queries](https://cses.fi/problemset/task/2420)
+- [CSES - Distinct Substrings](https://cses.fi/problemset/task/2105)
+- [CSES - Repeating Substring](https://cses.fi/problemset/task/2106)
+- [CSES - Tree Isomorphism I](https://cses.fi/problemset/task/1700)
 
 
 # Math
@@ -34,11 +34,11 @@
 
 #### Exercises
 
-- [Divisor Analysis](https://cses.fi/problemset/task/2182)
-- [Counting Coprime Pairs](https://cses.fi/problemset/task/2417)
-- [Distributing Apples](https://cses.fi/problemset/task/1716)
-- [Christmas Party](https://cses.fi/problemset/task/1717)
-- [Bracket Sequences II](https://cses.fi/problemset/task/2187)
+- [CSES - Divisor Analysis](https://cses.fi/problemset/task/2182)
+- [CSES - Counting Coprime Pairs](https://cses.fi/problemset/task/2417)
+- [CSES - Distributing Apples](https://cses.fi/problemset/task/1716)
+- [CSES - Christmas Party](https://cses.fi/problemset/task/1717)
+- [CSES - Bracket Sequences II](https://cses.fi/problemset/task/2187)
 
 # Data Structures
 
@@ -53,5 +53,23 @@
 
 #### Exercises
 
-- [Josephus Problem II](https://cses.fi/problemset/task/2163)
-- [Reversals and Sums](https://cses.fi/problemset/task/2074)
+- [CSES - Josephus Problem II](https://cses.fi/problemset/task/2163)
+- [CSES - Reversals and Sums](https://cses.fi/problemset/task/2074)
+
+# Trees
+
+#### Theory
+
+- Heavy-Light Decomposition
+- Centroid Decomposition
+
+#### Exercises
+
+- [CSES - Path Queries II](https://cses.fi/problemset/task/2134)
+- [SPOJ - Gao on a tree](https://www.spoj.com/problems/GOT/)
+- [CMS - juice](https://training.olinfo.it/#/task/juice/statement)
+- [CMS - subtreemode](https://training.olinfo.it/#/task/subtreemode/statement)
+- [CSES - Finding a Centroid](https://training.olinfo.it/#/task/subtreemode/statement)
+- [CSES - Fixed-Lenght Paths I](https://cses.fi/problemset/task/2080)
+- [CSES - Fixed-Lenght Paths II](https://cses.fi/problemset/task/2081)
+- [CMS - median](https://training.olinfo.it/#/task/ois_median/statement)
