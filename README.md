@@ -1,6 +1,4 @@
-# Topics
-
-## Strings algorithms
+# Strings algorithms
 
 #### Theory
 
@@ -22,7 +20,7 @@
 - [Tree Isomorphism I](https://cses.fi/problemset/task/1700)
 
 
-## Math
+# Math
 
 #### Theory
 
@@ -42,7 +40,7 @@
 - [Christmas Party](https://cses.fi/problemset/task/1717)
 - [Bracket Sequences II](https://cses.fi/problemset/task/2187)
 
-## Data Structures
+# Data Structures
 
 #### Theory
 
