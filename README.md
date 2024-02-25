@@ -50,6 +50,7 @@
 - Wavelet tree
 - MinQueue
 - MinStack
+- Persistent queue/stack
 
 #### Exercises
 
